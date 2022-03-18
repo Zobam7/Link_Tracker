@@ -1,0 +1,11 @@
+{
+    "manifest_version" : 3,
+    "version" : "1.0",
+    "name" : "Link tracker",
+    "action": {
+        "default_pop" : "icon.jpg"
+    },
+    "permissions":[
+        "tabs"
+    ]
+}
